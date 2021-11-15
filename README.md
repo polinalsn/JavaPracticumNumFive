@@ -1,1 +1,1 @@
-# JavaPracticumNumFive
+# ПРАКТИЧЕСКИЕ РАБОТЫ ПО JAVA
